@@ -1,0 +1,18 @@
+/* styles.css */
+
+/* Style definitions */
+.styled-div {
+    background-color: #00bfff;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+/* Font color and family */
+body {
+    color: #333333;
+    font-family: Georgia, serif;
+    background-color: whitesmoke;
+}
